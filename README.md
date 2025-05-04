@@ -1,1 +1,3 @@
 # Just_G
+
+I am a learner of the ALX Front-End Developer and I want to revamp my GitHub Profile to make it stand out from the crowd in my job search. This is why I started with software engineering, what I am passionate about and what inspires me: creation. My aim is to build the vast ideas that are in my head and what the user needs.Please prepare a template I can use, which revamps all the sections of the GitHub profile. Enrich this template with HTML markups and compelling format and make it professional. After finishing, please ask me how you can help me making this template more personalized.Thank you.
